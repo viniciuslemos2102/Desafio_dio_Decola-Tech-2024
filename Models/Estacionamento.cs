@@ -27,7 +27,7 @@ namespace DesafioFundamentos.Models
             {
                 Veiculo novoVeiculo = new Veiculo(placa);
                 veiculos.Add(novoVeiculo);
-                Console.WriteLine("Veículo estacionado com sucesso!");
+                Console.WriteLine("Veículo estacionado com sucesso!");   
             }
             else
             {
